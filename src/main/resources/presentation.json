@@ -1,0 +1,20 @@
+{
+  "author": "kyljmeeski",
+  "slides": [
+    {
+      "type": "intro",
+      "title": "Machine Learning"
+    },
+    {
+      "type": "list",
+      "title": "Types of ML",
+      "items": [
+        "Supervised", "Unsupervised", "Reinforcement"
+      ]
+    },
+    {
+      "type": "message",
+      "text": "That's it."
+    }
+  ]
+}
